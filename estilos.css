@@ -1,0 +1,24 @@
+
+body {
+    background-color: #f0e68c; 
+}
+h1 {
+    color: #ff6347; 
+    font-family: <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
+
+}
+#btnBuscar, #btnAleatorio {
+    background-color: #ff6347; 
+    border: none;
+}
+#btnBuscar:hover, #btnAleatorio:hover {
+    background-color: #ac4672;
+}
+.card {
+    background-color: #fffacd; 
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+img {
+    border-radius: 15px;
+}
